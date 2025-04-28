@@ -16,7 +16,7 @@ heroImage: /demo.jpg
 | Straight-leg jeans | [Levi's 501 ‘90s](https://go.skimresources.com?id=TEST123&url=https%3A%2F%2Fwww.levi.com%2FGB%2Fen_GB%2Fclothing%2Fwomen%2Fjeans%2F501-90s-womens-jeans%2Fp%2F362000040) | **£95** |
 | Chunky loafers | [ASOS Design Chill Loafer](https://go.skimresources.com?id=TEST123&url=https%3A%2F%2Fwww.asos.com%2Fasos-design%2Fasos-design-chill-chunky-loafers-in-black%2Fprd%2F203110169) | **£38** |
 
-*All links commission-eligible. Prices checked hourly.*
+*All links commission-eligible. Prices' checked hourly.*
 
 ---
 
