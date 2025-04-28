@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: "Hailey Bieber’s Leather-Jacket Look — Get It for £180"
-pubDate: "2025-05-02T00:00:00Z"
+pubDate: "2025-05-02T00:00:00"
 description: "How to recreate Hailey’s off-duty leather-jacket outfit with affordable pieces in stock right now."
 author: OutfitOracle
 cover: /demo.jpg   # uses the Unsplash photo you uploaded
