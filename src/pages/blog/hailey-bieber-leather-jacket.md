@@ -1,16 +1,14 @@
 ---
-layout: ../../layouts/BlogPost.astro
+layout: ../../layouts/MarkdownPostLayout.astro
 title: "Hailey Bieber’s Leather-Jacket Look — Get It for £180"
-pubDate: "2025-05-02T00:00:00Z"
+pubDate: 2025-05-02
 description: "How to recreate Hailey’s off-duty leather-jacket outfit with affordable pieces in stock right now."
-author: OutfitOracle
-cover: /demo.jpg   # uses the Unsplash photo you uploaded
-slug: hailey-bieber-leather-jacket
 tags: [celebrity, street-style, look-for-less]
+heroImage: /demo.jpg
 ---
 
 > **The Inspiration**  
-> Spotted leaving a West Hollywood café, Hailey Bieber paired an oversized black leather jacket with straight-leg denim and chunky loafers—a £3,200 ensemble that sold out in days.
+> Spotted leaving a West Hollywood café, Hailey Bieber paired an oversized black leather jacket with straight-leg denim and chunky loafers—a £3 200 ensemble that sold out in days.
 
 | Piece | Budget-friendly twin | Price |
 |-------|---------------------|-------|
