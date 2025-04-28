@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/BlogPost.astro   # <- use the layout filename that EXISTS in src/layouts
 title: "Hailey Bieber’s Leather-Jacket Look — Get It for £180"
-pubDate: 2025-05-02                    # ← un-quoted ISO date
-updatedDate: 2025-05-02                # ← add this line; the layout falls back to it
+pubDate: 2025-05-02T00:00:00Z     # ← un-quoted ISO date
+updatedDate: 2025-05-02T00:00:00Z            # ← add this line; the layout falls back to it
 description: "How to recreate Hailey’s off-duty leather-jacket outfit with affordable pieces in stock right now."
 author: OutfitOracle
 cover: /demo.jpg                       # use “cover”, not heroImage
